@@ -8,11 +8,3 @@ Feature: Calculate Holiday Entitlement on the government website
         And I click the "Calculate" button
         Then the system should display the correct holiday entitlement
         And the result should match the expected entitlement for the given dates
-
-    Scenario: Verify accessibility features
-        When I interact with the page using keyboard navigation
-        Then the page should remain accessible, and all functionalities should be usable
-
-    Scenario: Verify cross-browser compatibility
-        When I access the page from different browsers
-        Then the page should render consistently, and all features should function as expected

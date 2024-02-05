@@ -1,0 +1,69 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    color: #333333;
+}
+body, .contact-input, .contact-textarea  {
+    font-family: 'Poppins', sans-serif;
+}
+.contact-page {
+    min-height: 100vh;
+    max-width: 900px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.contact-form-section {
+    display: flex;
+    width: 800px;
+    padding: 30px;
+    margin: 0 auto;
+}
+.contact-image {
+    width: 700px;
+    margin-left: 60px;
+    border-radius: 10%;
+}
+.contact-form-heading {
+    font-size: 48px;
+    font-weight: bold;
+    margin: 0;
+}
+.contact-form-heading span {
+    color: #007000;
+}
+.contact-form-intro {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.contact-input {
+    display: block;
+    width: 300px;
+    margin: 5px auto 15px;
+    border-radius: 20px;
+    padding: 8px 20px;
+    font-size: 16px;
+    border: 2px solid #333333;
+}
+.contact-textarea {
+    max-width: 300px;
+    margin: 5px auto 15px;
+    padding: 16px 20px;
+    border: 2px solid #333333;
+    border-radius: 20px;
+}
+.contact-input::-webkit-input-placeholder, .contact-textarea::-webkit-input-placeholder {
+    color: #aaaaaa;
+}
+.contact-submit-button {
+    border: 2px solid #333333;
+    padding: 8px 20px;
+    border-radius: 40px;
+    margin: 10px auto 0;
+    width: 200px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+}
+.contact-submit-button:hover {
+    background-color: #dddddd;
+}

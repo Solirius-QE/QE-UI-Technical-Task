@@ -1,0 +1,14 @@
+{
+  "name": "qe-ui-technical-task",
+  "version": "1.0.0",
+  "description": "Your task is to create a functional automated UI test suite using JavaScript, TypeScript, or a language of your choice. We would like you to use tools like Playwright, Cypress, or similar alternatives; kindly avoid using Selenium with Java. However should you opt to use Selenium with Java, we will inquire as to your reasoning's into why you did not opt for an alternative framework or language.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}

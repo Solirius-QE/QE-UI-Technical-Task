@@ -19,7 +19,7 @@ The URL for 'Calculate your holiday entitlement': https://www.gov.uk/calculate-y
 
 At Solirius, we prioritise Accessibility. While we understand that not everyone may meet our understanding of the subject, we are eager to gauge your knowledge and awareness in this area.
 
-Task two is to launch the basic web page we have created 'index.html' and provide us with a list of Accessability issues/bugs you can find.
+Task two is to launch the basic web page we have created 'index.html' and provide us with a list of Accessibility issues/bugs you can find.
 
 You can provide your list of answers anywhere you like, but tell us where you have put them. (e.g. within you README.md). Finally please provide at least one of them in the format of a Bug report. (doesn't have to be more then 1 in this format, the others can just be a quick list).
 
